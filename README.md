@@ -1,6 +1,6 @@
 # honor_project
 
-I chose to do a College Management System for my this project because I’m interested in working with the database system in any field.
+I chose to do a College Management Database System for this project because I’m interested in working with the database system in any field.
 
 I began with implementing a Postgres database and a web-based application that interacts with the database. Then, I used Docker Compose to define and manage the tiers. After that, I pushed it to my online repository on GitHub. Lastly, I used Insomnia to interact with the endpoints.
 
